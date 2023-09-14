@@ -1,0 +1,51 @@
+html {
+  background: url("img/coolpattern.jpg") repeat;
+  background-size: 700px;
+}
+body {
+  background-color: rgba(245, 255, 158, 0.75);
+  border-radius: 80px;
+  width: 800px;
+  margin: 100px auto;
+  padding: 50px 150px 100px;
+  font-family: cursive;
+  font-size: x-large;
+}
+
+h1,
+h2 {
+  font-family: cursive;
+  letter-spacing: 2px;
+}
+
+h1 {
+  color: #7c0076;
+}
+
+.center {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+.red {
+  color: #ca0000;
+}
+
+.green {
+  color: #329c52;
+}
+
+.Brown {
+  color: #3d243c;
+}
+
+a {
+  color: navy;
+}
+
+a:hover {
+  font-weight: bold;
+}
